@@ -6,7 +6,7 @@
   <link href="https://nuonian.top/atom.xml" rel="self"/>
   
   <link href="https://nuonian.top/"/>
-  <updated>2021-04-30T16:52:17.927Z</updated>
+  <updated>2021-05-03T08:23:13.248Z</updated>
   <id>https://nuonian.top/</id>
   
   <author>
@@ -17,23 +17,27 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="https://nuonian.top/blogs/4a17b156.html"/>
-    <id>https://nuonian.top/blogs/4a17b156.html</id>
-    <published>2021-04-26T14:06:52.418Z</published>
-    <updated>2021-04-30T16:52:17.927Z</updated>
+    <title>butterfly使用备忘录</title>
+    <link href="https://nuonian.top/blogs/1698c59a.html"/>
+    <id>https://nuonian.top/blogs/1698c59a.html</id>
+    <published>2021-05-03T02:08:35.000Z</published>
+    <updated>2021-05-03T08:23:13.248Z</updated>
     
     
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
-        
-      
+    <summary type="html">针对 hexo-butterfly 部分用法的记录</summary>
     
     
     
+    <category term="备忘录" scheme="https://nuonian.top/categories/%E5%A4%87%E5%BF%98%E5%BD%95/"/>
+    
+    <category term="使用手册" scheme="https://nuonian.top/categories/%E5%A4%87%E5%BF%98%E5%BD%95/%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C/"/>
+    
+    
+    <category term="butterfly" scheme="https://nuonian.top/tags/butterfly/"/>
+    
+    <category term="备忘录" scheme="https://nuonian.top/tags/%E5%A4%87%E5%BF%98%E5%BD%95/"/>
+    
+    <category term="使用手册" scheme="https://nuonian.top/tags/%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C/"/>
     
   </entry>
   
