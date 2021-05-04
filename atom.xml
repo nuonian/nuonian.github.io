@@ -6,7 +6,7 @@
   <link href="https://nuonian.top/atom.xml" rel="self"/>
   
   <link href="https://nuonian.top/"/>
-  <updated>2021-05-03T09:38:10.119Z</updated>
+  <updated>2021-05-04T12:31:18.617Z</updated>
   <id>https://nuonian.top/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Linux 基础</title>
+    <link href="https://nuonian.top/blogs/312ec9e0.html"/>
+    <id>https://nuonian.top/blogs/312ec9e0.html</id>
+    <published>2021-05-04T04:43:35.000Z</published>
+    <updated>2021-05-04T12:31:18.617Z</updated>
+    
+    
+    <summary type="html">Linux 基础知识及部分命令</summary>
+    
+    
+    
+    <category term="笔记" scheme="https://nuonian.top/categories/%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="Linux" scheme="https://nuonian.top/tags/Linux/"/>
+    
+    <category term="笔记" scheme="https://nuonian.top/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>Markdown 使用手册</title>
